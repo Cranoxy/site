@@ -4,5 +4,6 @@ color: rgb(250, 0, 0);
 font-size: 60%;
 }
 body{
-background:greenyellow; /*branch master*/
+
+background:gray; /*newbranc веточка*/
 }
